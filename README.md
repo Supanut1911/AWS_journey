@@ -45,3 +45,9 @@
 🏰 Front-end Web & Mobile
 
 - Amplify
+
+---
+
+Must to learn
+
+- AWS EKS
